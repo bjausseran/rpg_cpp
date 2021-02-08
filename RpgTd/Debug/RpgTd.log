@@ -1,0 +1,6 @@
+﻿  Character.cpp
+C:\Users\Utilisateur\OneDrive - Signe +\Cours\c++\RpgTd\RpgTd\Shaman.h(24,1): warning C4250: 'Shaman' : hérite de 'Berserk::Berserk::addHealth' via la dominance
+C:\Users\Utilisateur\OneDrive - Signe +\Cours\c++\RpgTd\RpgTd\Berserk.h(15): message : voir la déclaration de 'Berserk::addHealth'
+C:\Users\Utilisateur\OneDrive - Signe +\Cours\c++\RpgTd\RpgTd\Shaman.h(24,1): warning C4250: 'Shaman' : hérite de 'Berserk::Berserk::removeHealth' via la dominance
+C:\Users\Utilisateur\OneDrive - Signe +\Cours\c++\RpgTd\RpgTd\Berserk.h(14): message : voir la déclaration de 'Berserk::removeHealth'
+  RpgTd.vcxproj -> C:\Users\Utilisateur\OneDrive - Signe +\Cours\c++\RpgTd\Debug\RpgTd.exe
